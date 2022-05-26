@@ -1,4 +1,4 @@
-// Quantifiers are use
+// Quantifiers are used to find matches anywhere in a string chain
 // *	Match zero or more times. i.e. /^a*$/
 // +	Match one or more times.
 // ?	Match zero or one time.
