@@ -1,5 +1,5 @@
 // Greedy quantifiers can be turned into lazy quantifiers to separate text.
-// .	Match with anything even if it is empty
+// .	Wildcard matches with anything even if it is empty, except \n.
 // g    Match anything globally.
 
 const regex = /<whiskey>.*?<\/whiskey>/g;
